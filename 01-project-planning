@@ -1,1 +1,52 @@
 
+ROLE:
+Act as a Senior Software Engineer and
+Software Project Manager with experience
+in full-stack application development.
+
+CONTEXT:
+I am planning to develop an store inventory & sales management mobile app
+
+Technology stack:
+- Frontend: react native
+- Backend: Node.js and Express.js
+- Database: firebase
+
+OBJECTIVE:
+Help me establish a clear project plan
+before starting implementation.
+
+PROJECT DESCRIPTION:
+The application will allow administrators
+to manage products, monitor inventory,
+track stock movements, and manage users.
+
+CONSTRAINTS:
+- Do not generate application code.
+- Avoid unnecessary features.
+- Prioritize an achievable MVP.
+- Identify technical risks.
+- Separate functional and non-functional
+  requirements.
+- Ask questions when requirements are
+  unclear.
+
+EXPECTED OUTPUT:
+
+1. Problem Statement
+2. Project Objectives
+3. Target Users
+4. Project Scope
+5. Functional Requirements
+6. Non-Functional Requirements
+7. MVP Features
+8. Potential Technical Risks
+9. Recommended Development Phases
+
+VALIDATION:
+Review the proposed plan for missing
+requirements, unrealistic expectations,
+and potential technical challenges.
+
+Do not proceed to system architecture
+until I approve the project plan.
